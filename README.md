@@ -21,3 +21,4 @@
 ### php / wordpress
 [https://github.com/andreboyce/wplugin](https://github.com/andreboyce/wplugin){:target="_blank"} [sample wordpress plugin]
 
+[https://github.com/andreboyce/wplugin](https://github.com/andreboyce/wplugin){:target="_blank" rel="noopener"} [sample wordpress plugin]
